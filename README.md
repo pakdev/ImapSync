@@ -1,2 +1,2 @@
-# ImapSync
-Windows service to sync email from IMAP servers
+# MailSync
+Windows service to sync email from POP3 or IMAP servers
