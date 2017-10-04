@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailSync", "MailSync\MailSync.csproj", "{5217C965-3A6E-4DFC-A9DF-C73A86A7D612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSyncService", "MailSyncService\MailSyncService.csproj", "{C7414F39-B7B9-4451-B83A-0ECA5969E4D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5217C965-3A6E-4DFC-A9DF-C73A86A7D612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5217C965-3A6E-4DFC-A9DF-C73A86A7D612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5217C965-3A6E-4DFC-A9DF-C73A86A7D612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5217C965-3A6E-4DFC-A9DF-C73A86A7D612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7414F39-B7B9-4451-B83A-0ECA5969E4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7414F39-B7B9-4451-B83A-0ECA5969E4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7414F39-B7B9-4451-B83A-0ECA5969E4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7414F39-B7B9-4451-B83A-0ECA5969E4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
